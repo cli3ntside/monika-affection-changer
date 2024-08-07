@@ -5,4 +5,4 @@ please report errors in issues and make sure your antivirus is disabled and the 
 usage:
 
 pip install -r requirements.txt
-python monika affection.py
+- python monika affection.py
