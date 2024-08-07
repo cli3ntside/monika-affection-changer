@@ -6,3 +6,7 @@ usage:
 
 - pip install -r requirements.txt
 - python monika affection.py
+
+# OR
+
+download the build exe from https://github.com/horivity/monika-affection-changer/releases/download/build/monika.affection.exe
