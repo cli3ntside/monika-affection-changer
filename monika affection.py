@@ -39,7 +39,7 @@ def main():
     except pymem.exception.ProcessNotFound:
         print("Process DDLC.exe was not found.")
     except Exception as e:
-        print(f"Error (please report to the developer: {e}")
+        print(f"ERROR !! PLEASE CHECK IF THE AFFECTION CHANGED BEFORE REPORTING, IF IT STILL DIDNT REPORT TO https://github.com/horivity/monika-affection-changer/issues !! Error log: {e}")
 
 if __name__ == "__main__":
     main()
